@@ -32,7 +32,7 @@
     "ascii-table": "^0.0.9",
     "bcrypt": "^5.1.0",
     "btoa": "^1.2.1",
-    "chalk": "^4.1.2",
+    "chalk": "^5.2.0",
     "cors": "^2.8.5",
     "dbots": "^11.0.0",
     "discord-api-types": "^0.36.3",
